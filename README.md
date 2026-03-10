@@ -23,7 +23,7 @@ Open the extension **Options** page and set:
 - **Gateway token**: must match `gateway.auth.token`
 
 ## Screenshots
-![Options screenshot](QQ20260310-222148.png)
+![Options screenshot](options-screenshot.png)
 
 ## Security Notes
 - If you use a LAN IP, ensure your relay is properly secured.
