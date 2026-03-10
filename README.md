@@ -22,6 +22,9 @@ Open the extension **Options** page and set:
 - **Port**: Relay port (Gateway port + 3). Default `18792`
 - **Gateway token**: must match `gateway.auth.token`
 
+## Screenshots
+![Options screenshot](QQ20260310-222148.png)
+
 ## Security Notes
 - If you use a LAN IP, ensure your relay is properly secured.
 - Anyone who can reach the relay + token can control the attached tab.
